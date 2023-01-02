@@ -29,7 +29,7 @@
 
 
 
-# :man_technologist: About me
+### :man_technologist: About me
 
 - 💂‍♂️ I am a **Senior oftware Engineer**, worked on Node (ExpressJs), Laravel, React, Vue, Angular
 - 📝 I try to write articles on [medium.com](https://medium.com/@nmpiash)
@@ -38,13 +38,13 @@
 
 <p></p>
 
-### :fire: My Stats :
+### :fire: My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NazemMahmud&theme=dark)](https://git.io/streak-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NazemMahmud&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-# :hammer_and_wrench: Languages and Tools:
+### :hammer_and_wrench: Languages and Tools
 
 <div>
   <img alt="php" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
