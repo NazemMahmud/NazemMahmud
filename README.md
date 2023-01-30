@@ -29,22 +29,25 @@
 
 
 
-### :man_technologist: About me
+## About me
 
-- 💂‍♂️ I am a **Senior oftware Engineer**, worked on Node (ExpressJs), Laravel, React, Vue, Angular
-- 📝 I try to write articles on [medium.com](https://medium.com/@nmpiash)
-- 🔭 I’m looking to collaborate on **Open Source Projects**
-- :mailbox: Reach me at nazem.piash10@gmail.com or on my LinkedIn: [Nazem Mahmud Piash](https://www.linkedin.com/in/nazem-mahmud-piash-66a52b111)
+I am a **Senior Software Engineer**, having experience in Node (ExpressJs), Laravel, React, Vue, Angular. I am always looking to collaborate on **Open Source Projects**
+
+### You can reach out to me:
+- Blog: https://medium.com/@nmpiash
+- GitHub: https://github.com/foyzulkarim
+- LinkedIn: https://www.linkedin.com/in/nazem-mahmud-piash-66a52b111
+- Email:  nazem.piash10@gmail.com
 
 <p></p>
 
-### :fire: My Stats
+<!-- ### :fire: My Stats -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NazemMahmud&theme=dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NazemMahmud&theme=dark)](https://git.io/streak-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NazemMahmud&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-### :hammer_and_wrench: Languages and Tools
+## :hammer_and_wrench: Languages and Tools
 
 <div>
   <img alt="php" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
