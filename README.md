@@ -35,7 +35,7 @@ I am a **Senior Software Engineer**, having experience in Node (ExpressJs), Lara
 
 ### You can reach out to me:
 - Blog: https://medium.com/@nmpiash
-- GitHub: https://github.com/foyzulkarim
+- GitHub: [https://github.com/NazemMahmud](https://github.com/NazemMahmud)
 - LinkedIn: https://www.linkedin.com/in/nazem-mahmud-piash-66a52b111
 - Email:  nazem.piash10@gmail.com
 
