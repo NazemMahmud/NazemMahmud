@@ -36,12 +36,13 @@ I am a **Senior Software Engineer**, having experience in Node (ExpressJs), Lara
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Current Ongoing Projects
 
 | Project | Description |
 |---------|-------------|
 | 🤖 **[AI Chatbot](https://github.com/NazemMahmud/ai-chatbot)** | Conversational AI chatbot built with LLM integration for intelligent responses, ensuring data privacy, chatbot plugin, etc. |
 | 🛂 **[Passport Scraper ML](https://github.com/NazemMahmud/passport-scraper)** | Machine Learning model for extracting and parsing passport information from images, detect fraud or edited passport information, etc. |
+| 🛂 **[Video editor]()** | Small video editor with ffmpeg, started for small tasks, like, video join, flip, reverse, taking a frame out of a video, remove audio etc. |
 | 📄 **[PDF Editors](https://github.com/NazemMahmud/pdf-highlighter)** | Various types of PDF editing, like, highlighting, password removing (including AES encryption), page removing, convert image to texts, etc. |
 | 📊 **[Data Analytics Dashboard](https://github.com/NazemMahmud/analytics-dashboard)** | Real-time analytics dashboard with interactive charts and data visualization |
 
