@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/nazem-mahmud-piash-66a52b111">
+    <a href="https://www.linkedin.com/in/piashdev">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://leetcode.com/piash001">
@@ -31,8 +31,8 @@ I am a **Senior Software Engineer**, having experience in Node (ExpressJs), Lara
 ### You can reach out to me:
 - 📝 Blog: https://medium.com/@nmpiash
 - 💻 GitHub: [https://github.com/NazemMahmud](https://github.com/NazemMahmud)
-- 💼 LinkedIn: https://www.linkedin.com/in/nazem-mahmud-piash-66a52b111
-- 📧 Email: nazem.piash10@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/piashdev/
+- 📧 Email: contact@piash.dev
 
 ---
 
