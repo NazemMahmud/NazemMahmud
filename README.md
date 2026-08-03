@@ -40,7 +40,7 @@ I am a **Senior Software Engineer**, having experience in Node (ExpressJs), Lara
 
 | Project | Description |
 |---------|-------------|
-| 🤖 **[AI Chatbot]([https://github.com/NazemMahmud/ai-chatbot](https://github.com/NazemMahmud/ai-chatbot-be])** | Conversational AI chatbot built with LLM integration for intelligent responses, ensuring data privacy, chatbot plugin, etc. |
+| 🤖 **[AI Chatbot](https://github.com/NazemMahmud/ai-chatbot](https://github.com/NazemMahmud/ai-chatbot-be)** | Conversational AI chatbot built with LLM integration for intelligent responses, ensuring data privacy, chatbot plugin, etc. |
 | 🛂 **[Video editor]()** | Small video editor with ffmpeg, started for small tasks, like, video join, flip, reverse, taking a frame out of a video, remove audio etc. |
 | 📄 **[PDF Editors](https://github.com/NazemMahmud/pdf-highlighter)** | Various types of PDF editing, like, highlighting, password removing (including AES encryption), page removing, convert image to texts, etc. |
 | 📊 **[Data Analytics Dashboard](https://github.com/NazemMahmud/analytics-dashboard)** | Real-time analytics dashboard with interactive charts and data visualization |
