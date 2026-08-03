@@ -40,7 +40,7 @@ I am a **Senior Software Engineer**, having experience in Node (ExpressJs), Lara
 
 | Project | Description |
 |---------|-------------|
-| 🤖 **[AI Chatbot](https://github.com/NazemMahmud/ai-chatbot)** | Conversational AI chatbot built with LLM integration for intelligent responses, ensuring data privacy, chatbot plugin, etc. |
+| 🤖 **[AI Chatbot]([https://github.com/NazemMahmud/ai-chatbot](https://github.com/NazemMahmud/ai-chatbot-be))** | Conversational AI chatbot built with LLM integration for intelligent responses, ensuring data privacy, chatbot plugin, etc. |
 | 🛂 **[Passport Scraper ML](https://github.com/NazemMahmud/passport-scraper)** | Machine Learning model for extracting and parsing passport information from images, detect fraud or edited passport information, etc. |
 | 🛂 **[Video editor]()** | Small video editor with ffmpeg, started for small tasks, like, video join, flip, reverse, taking a frame out of a video, remove audio etc. |
 | 📄 **[PDF Editors](https://github.com/NazemMahmud/pdf-highlighter)** | Various types of PDF editing, like, highlighting, password removing (including AES encryption), page removing, convert image to texts, etc. |
@@ -51,16 +51,16 @@ I am a **Senior Software Engineer**, having experience in Node (ExpressJs), Lara
 ## :hammer_and_wrench: Languages and Tools
 
 ### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### Frontend
